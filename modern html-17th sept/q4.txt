@@ -1,0 +1,4 @@
+Q4. Ways which can help us in improving the accessibility of HTML:
+    1. Proper use of semantic HTML elements such as headings, lists, and landmarks for improved screen reader navigation.
+    2. Adding alt text to images to provide descriptions for visually impaired users and improve image accessibility.
+    3. Ensuring color contrast between text and background for readability, particularly for users with visual impairments.

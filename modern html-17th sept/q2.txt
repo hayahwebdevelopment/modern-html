@@ -1,0 +1,7 @@
+Q2. HTML entities are sequences of characters that begin with an ampersand (&) and end with a semicolon (;), used to display special characters or symbols in HTML documents, such as copyright symbol © or less than symbol <.
+ This ensures proper rendering across various browsers and platforms where the character encoding can vary.
+ Some of the common HTML entities are:
+ a. Non-breaking space
+ b. Less than
+ c. Greater than
+ d. Ampersand

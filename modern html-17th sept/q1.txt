@@ -1,0 +1,5 @@
+Q1. HTML5 is the 5th version of HTML. Some of its features are as follows:
+
+a. Audio and Video tags
+b. Header and Footer 
+c. Progress tag
